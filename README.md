@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Hi, I'm Larissa Noella Shimirwa!<br><br>## 🚀 About Me<br>I'm a junior developer with a passion for building web applications . I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.<br><br>## 🛠️ Technologies & Tools<br>- Frontend: JavaScript, HTML, CSS<br>- Tools: Git, GitHub, VS Code<br><br>## 🌱 Currently Learning<br>- Advanced React concepts<br>- Backend basics
+# 👋 Hi, I'm Larissa Noella Shimirwa!<br># 🚀 About Me<br>I'm a junior developer with a passion for building web applications . I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.<br># 🛠️ Technologies & Tools<br>- Frontend: JavaScript, HTML, CSS<br>- Tools: Git, GitHub, VS Code<br># 🌱 Currently Learning<br>- Advanced React concepts<br>- Backend basics
 
 
 # 💻 Tech Stack:
@@ -8,6 +7,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=larissanoella-05&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=larissanoella-05&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=larissanoella-05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=larissanoella-05&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=larissanoella-05&limit=5&theme=default&combine_all_yearly_contributions=true)
